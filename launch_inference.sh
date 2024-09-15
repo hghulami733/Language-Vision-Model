@@ -1,4 +1,4 @@
-MODEL_PAHT = "$HOME/projects/paligemma-weights/paligemma-3b-pt-244"
+MODEL_PAHT = "$HOME/projects/paligemma-weights/paligemma-3b-pt-224"
 PROMPT = "This is ..."
 IMAGE_FILE_PATH ="test_images/pic1.png"
 MAX_TOKENS_TO_GENERATE = 100
